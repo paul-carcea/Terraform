@@ -1,0 +1,5 @@
+1) Security Groups
+2) Application load balancer & Target Groups
+3) Launch config with userdata
+4) Autoscaling group
+5) Relaunch in different environment
